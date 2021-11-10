@@ -1,6 +1,6 @@
 package oggetti;
 
-public class OggettoLanciato
+public abstract class OggettoLanciato
 {
 	protected int valoreOttenuto;
 	
